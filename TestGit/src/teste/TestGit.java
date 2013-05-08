@@ -4,6 +4,8 @@ public class TestGit {
 	
 	public TestGit(){
 		System.out.println("comit");
+		System.out.println("cagora vai!!!!");
+		
 		
 	}
 	
