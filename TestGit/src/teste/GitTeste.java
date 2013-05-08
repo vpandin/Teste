@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	
 	a = b * c;
 	
-	System.out.printiln(a);
+	System.out.println(a);
 }
 
 }
